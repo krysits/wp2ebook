@@ -2,6 +2,6 @@
     "name": "krysits/wp2ebook",
     "description": "Your WP blog is saved in eBook document format",
     "require": {
-        "dompdf/dompdf": "^0.8.4"
+        "dompdf/dompdf": "^1.2.1"
     }
 }
